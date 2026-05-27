@@ -1,0 +1,104 @@
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.ProjectInstaller.resources
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.Service.resources
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\Service.csproj.GenerateResource.cache
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\STAR\Prueba Serv General\Service\bin\Debug\Service.exe.config
+C:\STAR\Prueba Serv General\Service\bin\Debug\Service.exe
+C:\STAR\Prueba Serv General\Service\bin\Debug\Service.pdb
+C:\STAR\Prueba Serv General\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\STAR\Prueba Serv General\Service\obj\Debug\Service.Service.resources
+C:\STAR\Prueba Serv General\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\STAR\Prueba Serv General\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\STAR\Prueba Serv General\Service\obj\Debug\Service.exe
+C:\STAR\Prueba Serv General\Service\obj\Debug\Service.pdb
+C:\STAR\Prueba Serv General\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\STAR\Servicio\Service\bin\Debug\Service.exe.config
+C:\STAR\Servicio\Service\bin\Debug\Service.exe
+C:\STAR\Servicio\Service\bin\Debug\Service.pdb
+C:\STAR\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\STAR\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\STAR\Servicio\Service\obj\Debug\Service.Service.resources
+C:\STAR\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\STAR\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\STAR\Servicio\Service\obj\Debug\Service.exe
+C:\STAR\Servicio\Service\obj\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\bin\Debug\Service.exe.config
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\bin\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\bin\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Debug\Service.Service.resources
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\bin\Debug\Service.exe.config
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\bin\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\bin\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\obj\Debug\Service.Service.resources
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\obj\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraEntradaSalidaInv\Servicio\Service\obj\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\bin\Debug\Service.exe.config
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\bin\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\bin\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\obj\Debug\Service.Service.resources
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\obj\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraTransferStock_EntrCompras\Servicio\Service\obj\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\bin\Debug\Service.exe.config
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\bin\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\bin\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\obj\Debug\Service.Service.resources
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\obj\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraTransferStock_EntreTiendas\Servicio\Service\obj\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\bin\Debug\Service.exe.config
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\bin\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\bin\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\obj\Debug\Service.Service.resources
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\obj\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraDevolucionesCompras\Servicio\Service\obj\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\bin\Debug\Service.exe.config
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\bin\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\bin\Debug\Service.pdb
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.Service.resources
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.exe
+C:\Users\desa2\source\repos\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.pdb
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\bin\Debug\Service.exe.config
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\bin\Debug\Service.exe
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\bin\Debug\Service.pdb
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.Service.resources
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.exe
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.pdb
+C:\STAR\Napse\Napse-Sap\GeneraFCEntregaPagos\Servicio\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\STAR\Napse\ReplicaStock\Servicio\Service\bin\Debug\Service.exe.config
+C:\STAR\Napse\ReplicaStock\Servicio\Service\bin\Debug\Service.exe
+C:\STAR\Napse\ReplicaStock\Servicio\Service\bin\Debug\Service.pdb
+C:\STAR\Napse\ReplicaStock\Servicio\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\STAR\Napse\ReplicaStock\Servicio\Service\obj\Debug\Service.Service.resources
+C:\STAR\Napse\ReplicaStock\Servicio\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\STAR\Napse\ReplicaStock\Servicio\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\STAR\Napse\ReplicaStock\Servicio\Service\obj\Debug\Service.exe
+C:\STAR\Napse\ReplicaStock\Servicio\Service\obj\Debug\Service.pdb

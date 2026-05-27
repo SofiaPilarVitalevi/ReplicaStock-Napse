@@ -1,0 +1,11 @@
+CREATE ROW TABLE "ST_NOVEDADES_STOCK" (
+"ItemCode" nvarchar(100),
+"EnMano" integer,
+"Comprometido" integer,
+"Total" integer,
+"Almacen" nvarchar(20),
+"Leido" nvarchar(3),
+"Date" Date,
+"Time" Time 
+
+)

@@ -1,0 +1,29 @@
+[20/05/2026 | 10:42:38 ] [INFO] Se encontraron 2 registros en ST_NOVEDADES_STOCK.
+[20/05/2026 | 10:42:38 ] [INFO] Se encontraron 0 registros en ST_NOVEDADES_STOCK.
+[20/05/2026 | 10:42:38 ] [INFO] Request a enviar: <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.business.soap.bridge.synthesis.com/">
+                                       <soapenv:Header/>
+                                       <soapenv:Body>
+                                          <ser:execute>
+                                             <service>stock</service>
+                                             <request><![CDATA[
+                                                <bridgeCoreRequest>
+                                                    <operation>createOrUpdate</operation>
+                                                    <params>
+                                             <stocks type="list"><stock type="bean"><storeCode>1327</storeCode><locationCode>1200</locationCode><itemInventoryState>IISD</itemInventoryState><revenueCenter>RCD</revenueCenter><items type="list"><item type="bean"><itemCode>X31800418101AA</itemCode><stockUnits>9</stockUnits></item><item type="bean"><itemCode>X31800418101AA</itemCode><stockUnits>9</stockUnits></item></items></stock></stocks>
+                                                    </params>
+                                                </bridgeCoreRequest>
+                                             ]]></request>
+                                             <store>0</store>
+                                          </ser:execute>
+                                       </soapenv:Body>
+                                    </soapenv:Envelope>
+[20/05/2026 | 10:43:28 ] [INFO] Invalid Operation, no operations specified
+[20/05/2026 | 10:43:35 ] [INFO] Excepción al procesar: Problemas al enviar el documento a destino: Error general en Napse: MongoError: Invalid Operation, no operations specified
+    at Function.create (/datadrive/bridge/bridgeapi/node_modules/mongoose/node_modules/mongodb/lib/core/error.js:57:12)
+    at toError (/datadrive/bridge/bridgeapi/node_modules/mongoose/node_modules/mongodb/lib/utils.js:123:22)
+    at UnorderedBulkOperation.bulkExecute (/datadrive/bridge/bridgeapi/node_modules/mongoose/node_modules/mongodb/lib/bulk/common.js:1109:31)
+    at UnorderedBulkOperation.execute (/datadrive/bridge/bridgeapi/node_modules/mongoose/node_modules/mongodb/lib/bulk/common.js:1139:22)
+    at /datadrive/bridge/bridgeapi/dist/services/import/stockImportService.js:176:34
+    at Generator.next (<anonymous>)
+    at fulfilled (/datadrive/bridge/bridgeapi/dist/services/import/stockImportService.js:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

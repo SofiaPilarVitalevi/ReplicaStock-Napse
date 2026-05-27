@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicaStock", "ReplicaStock.csproj", "{776BA5C8-2739-4C54-BEEB-6AA8E4D3E57A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{421E744C-875A-4529-9306-78E2A271D14B}"
+	ProjectSection(SolutionItems) = preProject
+		Interop.SAPbobsCOM 64 bits\Interop.SAPbobsCOM.dll = Interop.SAPbobsCOM 64 bits\Interop.SAPbobsCOM.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776BA5C8-2739-4C54-BEEB-6AA8E4D3E57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776BA5C8-2739-4C54-BEEB-6AA8E4D3E57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776BA5C8-2739-4C54-BEEB-6AA8E4D3E57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776BA5C8-2739-4C54-BEEB-6AA8E4D3E57A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CEF7E3F-54C8-4FA0-B099-303AB383A110}
+	EndGlobalSection
+EndGlobal

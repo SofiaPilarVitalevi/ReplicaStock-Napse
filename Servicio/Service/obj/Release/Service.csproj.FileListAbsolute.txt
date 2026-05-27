@@ -1,0 +1,30 @@
+C:\STAR\Prueba Serv General\Service\bin\Release\Service.exe.config
+C:\STAR\Prueba Serv General\Service\bin\Release\Service.exe
+C:\STAR\Prueba Serv General\Service\bin\Release\Service.pdb
+C:\STAR\Prueba Serv General\Service\obj\Release\Service.csproj.AssemblyReference.cache
+C:\STAR\Prueba Serv General\Service\obj\Release\Service.ProjectInstaller.resources
+C:\STAR\Prueba Serv General\Service\obj\Release\Service.Service.resources
+C:\STAR\Prueba Serv General\Service\obj\Release\Service.csproj.GenerateResource.cache
+C:\STAR\Prueba Serv General\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+C:\STAR\Prueba Serv General\Service\obj\Release\Service.exe
+C:\STAR\Prueba Serv General\Service\obj\Release\Service.pdb
+C:\STAR\Servicio\Service\bin\Release\Service.exe.config
+C:\STAR\Servicio\Service\bin\Release\Service.exe
+C:\STAR\Servicio\Service\bin\Release\Service.pdb
+C:\STAR\Servicio\Service\obj\Release\Service.csproj.AssemblyReference.cache
+C:\STAR\Servicio\Service\obj\Release\Service.ProjectInstaller.resources
+C:\STAR\Servicio\Service\obj\Release\Service.Service.resources
+C:\STAR\Servicio\Service\obj\Release\Service.csproj.GenerateResource.cache
+C:\STAR\Servicio\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+C:\STAR\Servicio\Service\obj\Release\Service.exe
+C:\STAR\Servicio\Service\obj\Release\Service.pdb
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\bin\Release\Service.exe.config
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\bin\Release\Service.exe
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\bin\Release\Service.pdb
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Release\Service.csproj.AssemblyReference.cache
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Release\Service.ProjectInstaller.resources
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Release\Service.Service.resources
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Release\Service.csproj.GenerateResource.cache
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Release\Service.exe
+C:\Users\desa2\source\repos\GeneraSN\Servicio\Service\obj\Release\Service.pdb

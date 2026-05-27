@@ -1,0 +1,10 @@
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\bin\Release\BridgeServiceEnvio.exe.config
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\bin\Release\BridgeServiceEnvio.exe
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\bin\Release\BridgeServiceEnvio.pdb
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\obj\Release\BridgeServiceEnvio.csproj.AssemblyReference.cache
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\obj\Release\BridgeServiceEnvio.ProjectInstaller.resources
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\obj\Release\BridgeServiceEnvio.Service.resources
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\obj\Release\BridgeServiceEnvio.csproj.GenerateResource.cache
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\obj\Release\BridgeServiceEnvio.csproj.CoreCompileInputs.cache
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\obj\Release\BridgeServiceEnvio.exe
+C:\STAR\Integración Napse\Proyectos\Services\BridgeServiceEnvio\BridgeServiceEnvio\obj\Release\BridgeServiceEnvio.pdb

@@ -1,0 +1,19 @@
+[13/05/2026 | 18:01:03 ] [INFO] Error de conexión a SAP: -125 -- No database server type specified
+[13/05/2026 | 18:01:03 ] [INFO] Request a enviar: <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.business.soap.bridge.synthesis.com/">
+                                       <soapenv:Header/>
+                                       <soapenv:Body>
+                                          <ser:execute>
+                                             <service>stock</service>
+                                             <request><![CDATA[
+                                                <bridgeCoreRequest>
+                                                    <operation>createOrUpdate</operation>
+                                                    <params>
+                                             <stocks type="list"><stock type="bean"><storeCode>1327</storeCode><locationCode>DEP1</locationCode><itemInventoryState>IISD</itemInventoryState><revenueCenter>RCD</revenueCenter><items type="list" /></stock></stocks>
+                                                    </params>
+                                                </bridgeCoreRequest>
+                                             ]]></request>
+                                             <store>0</store>
+                                          </ser:execute>
+                                       </soapenv:Body>
+                                    </soapenv:Envelope>
+[13/05/2026 | 18:01:03 ] [INFO] Se guardó el request en Request_Envio.txt en vez de enviarse a NAPSE.

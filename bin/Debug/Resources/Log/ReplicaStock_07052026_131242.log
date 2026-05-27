@@ -1,0 +1,18 @@
+[07/05/2026 | 13:12:42 ] [INFO] Request a enviar: <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.business.soap.bridge.synthesis.com/">
+                                       <soapenv:Header/>
+                                       <soapenv:Body>
+                                          <ser:execute>
+                                             <service>stock</service>
+                                             <request><![CDATA[
+                                                <bridgeCoreRequest>
+                                                    <operation>createOrUpdate</operation>
+                                                    <params>
+                                             <stocks type="list"><stock type="bean"><storeCode>1327</storeCode><locationCode>DEP1</locationCode><itemInventoryState>IISD</itemInventoryState><revenueCenter>RCD</revenueCenter><itemss type="list"><items type="bean"><itemCode>Laptop</itemCode><stockUnits>20</stockUnits></items></itemss></stock></stocks>
+                                                    </params>
+                                                </bridgeCoreRequest>
+                                             ]]></request>
+                                             <store>0</store>
+                                          </ser:execute>
+                                       </soapenv:Body>
+                                    </soapenv:Envelope>
+[07/05/2026 | 13:12:44 ] [INFO] Cannot read properties of undefined (reading '0')

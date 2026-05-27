@@ -1,0 +1,37 @@
+[20/05/2026 | 10:23:29 ] [INFO] Se encontraron 0 registros en ST_NOVEDADES_STOCK.
+[20/05/2026 | 10:23:30 ] [INFO] Se encontraron 0 registros en ST_NOVEDADES_STOCK.
+[20/05/2026 | 10:23:30 ] [INFO] Request a enviar: <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.business.soap.bridge.synthesis.com/">
+                                       <soapenv:Header/>
+                                       <soapenv:Body>
+                                          <ser:execute>
+                                             <service>stock</service>
+                                             <request><![CDATA[
+                                                <bridgeCoreRequest>
+                                                    <operation>createOrUpdate</operation>
+                                                    <params>
+                                             <stocks type="list" />
+                                                    </params>
+                                                </bridgeCoreRequest>
+                                             ]]></request>
+                                             <store>0</store>
+                                          </ser:execute>
+                                       </soapenv:Body>
+                                    </soapenv:Envelope>
+[20/05/2026 | 10:23:55 ] [INFO] Cannot read properties of undefined (reading 'stock')
+[20/05/2026 | 10:23:55 ] [INFO] Excepción al procesar: Problemas al enviar el documento a destino: Error general en Napse: TypeError: Cannot read properties of undefined (reading 'stock')
+    at /datadrive/bridge/bridgeapi/dist/services/import/stockImportService.js:39:71
+    at Generator.next (<anonymous>)
+    at /datadrive/bridge/bridgeapi/dist/services/import/stockImportService.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/datadrive/bridge/bridgeapi/dist/services/import/stockImportService.js:4:12)
+    at Object.stockImportFromWebService (/datadrive/bridge/bridgeapi/dist/services/import/stockImportService.js:32:50)
+    at /datadrive/bridge/bridgeapi/dist/services/import/entityImportService.js:296:55
+    at Generator.next (<anonymous>)
+    at /datadrive/bridge/bridgeapi/dist/services/import/entityImportService.js:27:71
+    at new Promise (<anonymous>)
+    at __awaiter (/datadrive/bridge/bridgeapi/dist/services/import/entityImportService.js:23:12)
+    at Object.processJsonImport (/datadrive/bridge/bridgeapi/dist/services/import/entityImportService.js:242:51)
+    at /datadrive/bridge/bridgeapi/dist/services/import/entityImportService.js:147:44
+    at Generator.next (<anonymous>)
+    at fulfilled (/datadrive/bridge/bridgeapi/dist/services/import/entityImportService.js:24:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

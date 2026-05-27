@@ -1,0 +1,30 @@
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\bin\Debug\UpdateOTService.exe.config
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\bin\Debug\UpdateOTService.exe
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\bin\Debug\UpdateOTService.pdb
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\obj\Debug\BridgeServiceEnvio.ProjectInstaller.resources
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\obj\Debug\BridgeServiceEnvio.Service.resources
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\obj\Debug\UpdateOTService.csproj.GenerateResource.cache
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\obj\Debug\UpdateOTService.csproj.CoreCompileInputs.cache
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\obj\Debug\UpdateOTService.exe
+C:\STAR\MARCO POLO\UpdateOTService\BridgeServiceEnvio\obj\Debug\UpdateOTService.pdb
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\bin\Debug\UpdateOTService.exe.config
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\bin\Debug\UpdateOTService.exe
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\bin\Debug\UpdateOTService.pdb
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\obj\Debug\UpdateOTService.csproj.AssemblyReference.cache
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\obj\Debug\UpdateOTService.ProjectInstaller.resources
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\obj\Debug\UpdateOTService.Service.resources
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\obj\Debug\UpdateOTService.csproj.GenerateResource.cache
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\obj\Debug\UpdateOTService.csproj.CoreCompileInputs.cache
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\obj\Debug\UpdateOTService.exe
+C:\STAR\MARCO POLO\UpdateOTService\UpdateOTService\obj\Debug\UpdateOTService.pdb
+C:\STAR\Prueba Serv General\UpdateOTService\bin\Debug\App.config
+C:\STAR\Prueba Serv General\UpdateOTService\bin\Debug\UpdateOTService.exe.config
+C:\STAR\Prueba Serv General\UpdateOTService\bin\Debug\UpdateOTService.exe
+C:\STAR\Prueba Serv General\UpdateOTService\bin\Debug\UpdateOTService.pdb
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.csproj.AssemblyReference.cache
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.ProjectInstaller.resources
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.Service.resources
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.csproj.GenerateResource.cache
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.csproj.CoreCompileInputs.cache
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.exe
+C:\STAR\Prueba Serv General\UpdateOTService\obj\Debug\UpdateOTService.pdb

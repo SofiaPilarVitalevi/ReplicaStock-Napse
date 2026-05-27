@@ -1,0 +1,34 @@
+[07/05/2026 | 14:06:04 ] [INFO] Se creará/actualizará un Supplier en destino a partir del Socio de Negocios.
+[07/05/2026 | 14:06:05 ] [INFO] Request a enviar: <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.business.soap.bridge.synthesis.com/">
+                                       <soapenv:Header/>
+                                       <soapenv:Body>
+                                          <ser:execute>
+                                             <service>supplier</service>
+                                             <request><![CDATA[
+                                                <bridgeCoreRequest>
+                                                    <operation>createOrUpdate</operation>
+                                                    <params>
+                                             <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.business.soap.bridge.synthesis.com/">
+                                       <soapenv:Header/>
+                                        <soapenv:Body>
+                                            <ser:execute>   
+                                                <service>supplier</service>   
+                                                <request><![CDATA[   
+                                                   <bridgeCoreRequest>   
+                                                       <operation>createOrUpdate</operation>   
+                                                       <params>   
+                                                <suppliers type = "list"><supplier type = "bean"><code>PL-001735</code><name>PRAMPARO VICTORIA</name><address/><phone></phone><email>vickypramparo@gmail.com</email><fiscalId>23337684084</fiscalId><activeFlag>true</activeFlag><fantasyName>PRAMPARO VICTORIA</fantasyName></supplier></suppliers>  
+                                                       </params>
+                                                   </bridgeCoreRequest>  
+                                                ]]></request>  
+                                                <store>0</store>  
+                                             </ser:execute>   
+                                           </soapenv:Body>   
+                                         </soapenv:Envelope> 
+                                                    </params>
+                                                </bridgeCoreRequest>
+                                             ]]></request>
+                                             <store>0</store>
+                                          </ser:execute>
+                                       </soapenv:Body>
+                                    </soapenv:Envelope>

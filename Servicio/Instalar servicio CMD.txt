@@ -1,0 +1,23 @@
+﻿1) Abrir CMD como Administrador.
+
+2) Instalar servicio
+Comando: SC create "nombre del servicio" displayname= "nombre del servicio" binpath= "ruta del ejecutable del servicio" start= "forma de inicio"
+Ejemplo: SC create "ejemplo1" displayname= "ejemplo1" binpath= "C:\Users\Delfi\Desktop\ejemplo1\Service.exe" start= auto
+
+3) Agregar descripción al servicio.
+Comando: SC description "nombre del servicio" "descripción del servicio"
+Ejemplo: SC description "ejemplo1" "ejemplo1 descripción servicio"
+
+4) Eliminar servicio.
+Comando: SC delete "nombre del servicio"
+Ejemplo: SC delete "ejemplo1"
+
+------------------------------------------------------------------------------------------------------------------------
+SC create "ReplicaStock (Test)" displayname= "ReplicaStock (Test)" binpath= "C:\STAR\Napse\ReplicaStock\Servicio\TEST\Service.exe" start= auto
+SC create "ReplicaStock (Prod)" displayname= "ReplicaStock (Prod)" binpath= "C:\STAR\Napse\ReplicaStock\Servicio\PROD\Service.exe" start= auto
+
+SC description "ReplicaStock (Test)" "Replica Stock de SAP a Napse"
+SC description "ReplicaStock (Prod)" "Replica Stock de SAP a Napse"
+
+SC delete "ReplicaStock (Test)"
+SC delete "ReplicaStock (Prod)"

@@ -1,0 +1,19 @@
+[14/05/2026 | 16:50:36 ] [INFO] Se encontraron 8 registros en ST_NOVEDADES_STOCK.
+[14/05/2026 | 16:50:36 ] [INFO] Request a enviar: <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.business.soap.bridge.synthesis.com/">
+                                       <soapenv:Header/>
+                                       <soapenv:Body>
+                                          <ser:execute>
+                                             <service>stock</service>
+                                             <request><![CDATA[
+                                                <bridgeCoreRequest>
+                                                    <operation>createOrUpdate</operation>
+                                                    <params>
+                                             <stocks type="list"><stock type="bean"><storeCode>1327</storeCode><locationCode>DEP1</locationCode><itemInventoryState>IISD</itemInventoryState><revenueCenter>RCD</revenueCenter><items type="list"><item type="bean"><itemCode>X202020</itemCode><stockUnits>153</stockUnits></item><item type="bean"><itemCode>X20203</itemCode><stockUnits>148</stockUnits></item><item type="bean"><itemCode>X31800399101</itemCode><stockUnits>126</stockUnits></item><item type="bean"><itemCode>X31800418101</itemCode><stockUnits>9</stockUnits></item><item type="bean"><itemCode>X31800399101</itemCode><stockUnits>126</stockUnits></item><item type="bean"><itemCode>X31800418101</itemCode><stockUnits>9</stockUnits></item><item type="bean"><itemCode>X202020</itemCode><stockUnits>153</stockUnits></item><item type="bean"><itemCode>X20203</itemCode><stockUnits>148</stockUnits></item></items></stock></stocks>
+                                                    </params>
+                                                </bridgeCoreRequest>
+                                             ]]></request>
+                                             <store>0</store>
+                                          </ser:execute>
+                                       </soapenv:Body>
+                                    </soapenv:Envelope>
+[14/05/2026 | 16:50:38 ] [INFO] Se importo con exito

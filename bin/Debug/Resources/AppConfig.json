@@ -1,0 +1,36 @@
+{
+  "mssqlAccess": {
+    "server": "SRV-START1\\SQLEXPRESS",
+    "user": "sa",
+    "pass": "Star2015"
+  },
+  "diApiAccess": {
+    "server": "NDB@192.168.1.21:30013",
+    "user": "PORTAL",
+    "pass": "PZdi.319!"
+  },
+  "dbs": {
+    "a": "TEST_NAPSE",
+    "b": "TESTPORTAL"
+  },
+  "apiDest": {
+    "url": "https://bmc.dev.napse.global:45503/bridge/services/bridgeCoreSOAP"
+    //"url_prod": "https://bmc-diffupar.napse.global:8445/bridge/services/bridgeCoreSOAP"
+  },
+  "HanaConnection": {
+    "Driver": "B1CRHPROXY",
+    "UID": "PORTAL",
+    "PWD": "PZdi.319!",
+    "SERVERNODE": "192.168.1.21:30015",
+    "DATABASE": "TESTPORTAL"
+  },
+  "SapCompanyConnection": {
+    "DbUserName": "PORTAL",
+    "DbPassword": "PZdi.319!",
+    "Server": "NDB@192.168.1.21:30013",
+    "CompanyDB": "TESTPORTAL",
+    "UserName": "PORTAL",
+    "Password": "PZdi.319!"
+  },
+  "codRespNapse": { "cod":"0" }
+}
