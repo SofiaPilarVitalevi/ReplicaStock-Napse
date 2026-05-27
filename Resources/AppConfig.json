@@ -1,0 +1,36 @@
+{
+  "mssqlAccess": {
+    "server": "",
+    "user": "",
+    "pass": ""
+  },
+  "diApiAccess": {
+    "server": "",
+    "user": "",
+    "pass": ""
+  },
+  "dbs": {
+    "a": "",
+    "b": ""
+  },
+  "apiDest": {
+    "url": ""
+    //"url_prod": ""
+  },
+  "HanaConnection": {
+    "Driver": "",
+    "UID": "",
+    "PWD": "",
+    "SERVERNODE": "",
+    "DATABASE": ""
+  },
+  "SapCompanyConnection": {
+    "DbUserName": "",
+    "DbPassword": "",
+    "Server": "",
+    "CompanyDB": "",
+    "UserName": "",
+    "Password": ""
+  },
+  "codRespNapse": { "cod":"0" }
+}
